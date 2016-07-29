@@ -12,6 +12,7 @@
 		18B973651D4BA5C800F473D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B973631D4BA5C800F473D0 /* Main.storyboard */; };
 		18B973671D4BA5C800F473D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B973661D4BA5C800F473D0 /* Assets.xcassets */; };
 		18B9736A1D4BA5C800F473D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B973681D4BA5C800F473D0 /* LaunchScreen.storyboard */; };
+		18B973721D4BAA4100F473D0 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 18B973711D4BAA4100F473D0 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18B973661D4BA5C800F473D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18B973691D4BA5C800F473D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18B9736B1D4BA5C800F473D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B973711D4BAA4100F473D0 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				18B9735E1D4BA5C800F473D0 /* PokeDex */,
 				18B9735D1D4BA5C800F473D0 /* Products */,
+				18B973711D4BAA4100F473D0 /* pokemon.csv */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +128,7 @@
 			files = (
 				18B9736A1D4BA5C800F473D0 /* LaunchScreen.storyboard in Resources */,
 				18B973671D4BA5C800F473D0 /* Assets.xcassets in Resources */,
+				18B973721D4BAA4100F473D0 /* pokemon.csv in Resources */,
 				18B973651D4BA5C800F473D0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
